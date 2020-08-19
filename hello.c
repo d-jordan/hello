@@ -11,8 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("David Jordan\n");
-  printf("Computer Engineering\n");
+  printf("David Jordan\n"); //Print Name
+  printf("Computer Engineering\n"); //Print Major
   printf("Brevin Letner\n"); //Prints Name to Screen
   printf("Computer Science\n"); //Prints school major
 
